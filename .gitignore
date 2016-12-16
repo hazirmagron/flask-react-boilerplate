@@ -1,3 +1,9 @@
+#project specific settings
+.idea/
+
+# npm installed packages
+node_modules/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -82,8 +88,8 @@ celerybeat-schedule
 venv/
 ENV/
 
-# Spyder project settings
+# Spyder app settings
 .spyderproject
 
-# Rope project settings
+# Rope app settings
 .ropeproject

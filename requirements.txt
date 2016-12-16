@@ -1,0 +1,7 @@
+# This file is used by pip to install required python packages
+
+# Flask Framework
+Flask==0.10.1
+
+# Flask Packages
+Flask-SQLAlchemy
